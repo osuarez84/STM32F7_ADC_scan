@@ -1,0 +1,4 @@
+stm32f7xx_it.c:54:6:SysTick_Handler	8	static
+stm32f7xx_it.c:76:6:ADC_IRQHandler	0	static
+stm32f7xx_it.c:90:6:TIM6_DAC_IRQHandler	0	static
+stm32f7xx_it.c:104:6:DMA2_Stream0_IRQHandler	0	static
